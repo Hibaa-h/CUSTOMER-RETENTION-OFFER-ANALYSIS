@@ -7,6 +7,12 @@ The analysis helps businesses understand which offers and channels contribute mo
 
 ---
 
+## Dashboard Preview
+![Dashboard Screenshot](Customer_Retention_Dashboard.png)
+
+---
+
+
 ## Key Metrics
 - Total Customers: 5,000
 - Total Retained Customers: 3,149
